@@ -1,2 +1,2 @@
 첫 커밋
-Second commit
+Second commit.
